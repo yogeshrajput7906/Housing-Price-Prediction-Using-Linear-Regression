@@ -58,13 +58,13 @@ It focuses on using **linear regression** to predict housing prices based on var
 
 ## Sample Output
 
-**MAE**: 112000.45
-**MSE**: 2.08e+10
-**R²**: 0.69
+-**MAE**: 112000.45
+-**MSE**: 2.08e+10
+-**R²**: 0.69
 
 ## Feature  Coefficient
       
-0 area 134.89
+0 area 134.89, 
 1 bedrooms 49000.23
 
 *(values vary depending on the data split)*
@@ -81,9 +81,9 @@ It focuses on using **linear regression** to predict housing prices based on var
 
 📁 Housing-Price-Prediction-Using-Linear-Regression
 │
-├── Housing.csv # Dataset
-├── Task3.py # Python script with full implementation
-├── README.md # This project overview file
+-├── Housing.csv # Dataset
+-├── Task3.py # Python script with full implementation
+-├── README.md # This project overview file
 
 
 ## Author
